@@ -1,2 +1,2 @@
-# RC Commercial Coating, LLC  
-This repository contains files associated with rccommercialcoating.com
+# RC Commercial Coatings, LLC  
+This repository contains files associated with rccommercialcoatings.com
